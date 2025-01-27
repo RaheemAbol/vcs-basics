@@ -12,3 +12,6 @@ git add . - add all files
 git commit -m"write your message here" - syntax for commiting a message/commit(saving point)
 
 git push - upload changes to cloud repo
+
+
+git clone - clone a cloud repo to your local machine
