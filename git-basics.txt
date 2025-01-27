@@ -1,0 +1,11 @@
+git init - initialize a directory/folder
+
+git status - check status of a directory
+
+git add [file-name] - add a specific file by name 
+
+git add . - add all files
+
+git commit -m"write your message here" - syntax for commiting a message/commit(saving point)
+
+git push - upload changes to cloud repo
