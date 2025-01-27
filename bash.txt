@@ -4,6 +4,8 @@ touch - create file
 
 ls - list directories/folders
 
+ls -a - list all hidden files
+
 cd - navigate into a directory/folder
 
 cd .. - navigate out of a directory/folder
