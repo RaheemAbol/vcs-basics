@@ -1,1 +1,12 @@
-Hello world
+mkdir - create directory
+
+touch - create file
+
+ls - list directories/folders
+
+cd - navigate into a directory/folder
+
+cd .. - navigate out of a directory/folder
+
+
+rm -rf - remove a file
